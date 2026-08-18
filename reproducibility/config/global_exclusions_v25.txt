@@ -1,0 +1,4 @@
+ID
+FAMILY_ID
+PNTTM
+Ages

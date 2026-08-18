@@ -1,0 +1,14 @@
+Test_Age
+YearsOfEducation
+APOE
+Age
+Job
+Education
+Sex
+Education_Level
+Handgrip
+rs7946
+rs25489
+rs28469095
+rs429358
+rs440446
