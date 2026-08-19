@@ -139,7 +139,7 @@ These scripts reproduce exploratory association and internal predictive analyses
 
 ## Data availability
 
-Participant-level data are not bundled with this repository. Users must obtain the underlying datasets through the applicable cohort/data-access procedures and construct the de-identified analysis matrices described above.
+Participant-level data are not bundled with this repository. Users must obtain the underlying datasets through the applicable cohort/data-access procedures and construct the de-identified analysis matrices described above. Please contact CODA(coda.nih.go.kr) for data acqusition. The WGS data was provided with biomedical and research resource, containing genetic and health ionformation from CODA(Clinical & Omics Data Archive). The Agency for Disease Control and Prevetion, Republic of Korea(CODA_S2600052R-02).
 
 ## Versioning for publication
 
